@@ -1,6 +1,7 @@
 # Harry Potter Series
 
-![Harry Potter]([https://example.com/harry-potter-image.jpg](https://picfiles.alphacoders.com/621/thumb-1920-62155.jpg))
+![hpp](https://github.com/EllaHrldr/app-dev/assets/151847047/386f0738-968c-4681-a0d7-511c0971ccb2)
+
 
 ## Introduction
 The **Harry Potter series** is a popular fantasy book series written by British author J.K. Rowling. The series follows the life and adventures of a young wizard, Harry Potter, and his friends as they navigate the magical world and face various challenges.
