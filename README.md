@@ -1,5 +1,7 @@
 # Harry Potter Series
 
+![Harry Potter](https://example.com/harry-potter-image.jpg)
+
 ## Introduction
 The **Harry Potter series** is a popular fantasy book series written by British author J.K. Rowling. The series follows the life and adventures of a young wizard, Harry Potter, and his friends as they navigate the magical world and face various challenges.
 
@@ -48,4 +50,23 @@ The Harry Potter series has left an indelible mark on popular culture, inspiring
 
 For more information, visit the [official Harry Potter website](https://www.wizardingworld.com/).
 
-Feel free to contribute to this repository and add more details about the magical world of Harry Potter!
+## Additional Markdown Elements
+
+### Table
+| Book Title                                | Published | Plot                                                   |
+| ------------------------------------------|-----------|--------------------------------------------------------|
+| Philosopher's Stone (Sorcerer's Stone)     | 1997      | Discovers he is a wizard and begins Hogwarts journey.  |
+| Chamber of Secrets                         | 1998      | Returns to Hogwarts, discovers a mysterious chamber.  |
+| Prisoner of Azkaban                       | 1999      | Learns about parents' past, encounters Sirius Black.   |
+| Goblet of Fire                             | 2000      | Enters Triwizard Tournament, faces dangerous tasks.    |
+| Order of the Phoenix                       | 2003      | Faces skepticism, uncovers secrets about wizarding world. |
+| Half-Blood Prince                          | 2005      | Dumbledore reveals crucial information about Voldemort. |
+| Deathly Hallows                            | 2007      | Embarks on a quest to find and destroy Voldemort's Horcruxes. |
+
+### Fenced Code Block
+```python
+def say_hello():
+    print("Hello, wizarding world!")
+
+say_hello()
+
